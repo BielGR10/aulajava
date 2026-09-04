@@ -9,7 +9,7 @@ public class ex004 {
 
         if (nota == 10){
             System.out.println("Parabéns! Você foi excelente, nota perfeita!");
-        }else if (nota <= 9 && nota >= 7){
+        } else if (nota <= 9 && nota >= 7){
             System.out.println("Parabéns! você foi bem! Continue assim!");
         }else if (nota >= 5 && nota <= 6){
             System.out.println("Seu desempenho foi regular. R passa.");
